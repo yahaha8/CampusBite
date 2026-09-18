@@ -54,13 +54,5 @@ after steps on how to install everything part you can go ahead and test it the s
 not here added in a seperate folder you may check
 
 
-
-
-
-
-
-src/campusbite/Main.java
-
 ## Users
-
 The application currently provides Student and Admin sections through the main menu.
