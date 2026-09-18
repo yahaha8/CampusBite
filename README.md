@@ -33,17 +33,19 @@ CampusBite is a Java-based canteen food ordering and management system.
 
 ##  steps on how to Run all this 
 Step 1: Clone the Repository
+
 Step 2: Check the Project Files
 The Java source files are located inside:
                             src/campusbite/
+                            
 step 3:Open the terminal in the root CampusBite folder.
 Compile the Java source files using:
                             javac -d out src/campusbite/*.java
+                            
 step 4:If compilation is successful, run the application using:
                             java -cp out campusbite.Main                          
-                        
-## instructions on how to test(instructions for testing)
-## 8. Testing Instructions
+             
+## Testing Instructions
 The application can be tested through the command-line interface after compiling and running the project.
 after steps on how to install everything part you can go ahead and test it the steps are given there.
 
